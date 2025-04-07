@@ -1,4 +1,4 @@
-# Eli D. Gonzalez — Private Infrastructure Architect | Tactical Systems Engineer
+# Eli D. Gonzalez — Private Infrastructure Architect | Infrastructure Systems Engineer
 
 🔹 Architecting resilient, private-first infrastructure for modern needs.  
 🔹 Specialized in automation, breach detection, disaster recovery, and secure communications.  
