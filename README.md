@@ -1,14 +1,14 @@
 # Eli D. Gonzalez — Private Infrastructure Architect | Infrastructure Systems Engineer
 
-🔹 Architecting resilient, private-first infrastructure for modern needs.  
+🔹 Architecting resilient, private-first infrastructure for modern digital operations.  
 🔹 Specialized in automation, breach detection, disaster recovery, and secure communications.  
-🔹 Focused on enabling individuals, teams, and organizations to operate independently and securely.
+🔹 Enabling individuals, teams, and organizations to operate independently and securely — without reliance on fragile centralized systems.
 
 ---
 
 ## 🚀 Mission
 
-To build resilient systems that enable private, secure, and autonomous operations — without dependency on fragile centralized platforms.
+To engineer resilient foundations that empower private, secure, and autonomous operations — ensuring continuity in an increasingly volatile world.
 
 ---
 
@@ -26,18 +26,18 @@ To build resilient systems that enable private, secure, and autonomous operation
 
 ## 📚 Current Focus Areas
 
-- Building private infrastructure labs for small businesses and privacy-focused clients.
-- Automating resilient server deployments and breach detection pipelines.
-- Publishing tactical case studies and learning reports.
-- (Coming soon) Launch of tactical consulting packages.
+- Building resilient private infrastructure labs for small businesses and privacy-focused clients.
+- Automating robust server deployments and real-time breach detection pipelines.
+- Publishing in-depth case studies and technical learning reports.
+- (Coming soon) Launch of professional consulting packages.
 
 ---
 
 ## 📂 Selected Projects and Labs
 
-- [Private Infrastructure Labs](#) *(Coming Soon — Tactical Linux Hardening, VPN Mesh, SIEM Deployments)*
-- [Resilient Server Automation Toolkit](#) *(Coming Soon — Self-healing server stacks and auto-recovery blueprints)*
-- [Case Studies: Private Deployments in Real-World Scenarios](#) *(Coming Soon)*
+- [Private Infrastructure Labs](#) *(Coming Soon — Advanced Linux Hardening, VPN Mesh Networks, SIEM Deployments)*
+- [Resilient Server Automation Toolkit](#) *(Coming Soon — Self-healing server architectures and auto-recovery blueprints)*
+- [Case Studies: Private Infrastructure Deployments](#) *(Coming Soon — Real-world application breakdowns)*
 
 ---
 
@@ -45,7 +45,7 @@ To build resilient systems that enable private, secure, and autonomous operation
 
 - **Email:** [eli@elidgonzalez.com](mailto:eli@elidgonzalez.com)
 - **Blog:** [blog.elidgonzalez.com](https://blog.elidgonzalez.com) *(Coming Soon)*
-- **LinkedIn:** [linkedin.com/in/elidgonzalez](#) *(Coming Soon)*
+- **LinkedIn:** [linkedin.com/in/elidgonzalez](https://linkedin.com/in/elidgonzalez) *(Coming Soon)*
 
 ---
 
