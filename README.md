@@ -1,52 +1,61 @@
-# Eli D. Gonzalez — Private Infrastructure Architect | Infrastructure Systems Engineer
+# 👋 Hi, I'm Eli D. Gonzalez
 
-🔹 Architecting resilient, private-first infrastructure for modern digital operations.  
-🔹 Specialized in automation, breach detection, disaster recovery, and secure communications.  
-🔹 Enabling individuals, teams, and organizations to operate independently and securely — without reliance on fragile centralized systems.
+**Private Infrastructure Architect | Resilient Systems Builder | Automation Engineer**
 
----
-
-## 🚀 Mission
-
-To engineer resilient foundations that empower private, secure, and autonomous operations — ensuring continuity in an increasingly volatile world.
+I specialize in designing, deploying, and hardening private infrastructure systems for businesses, teams, and independent professionals.  
+My focus is building resilient, secure, and scalable environments that prioritize operational continuity, privacy, and real-world survivability.
 
 ---
 
-## 🛠️ Core Expertise
+## 🔧 Technical Focus Areas
 
-- **Linux Systems Hardening and Automation**
-- **WireGuard Mesh VPN Architecture**
-- **SIEM Lite Deployments (Wazuh, ELK Stack)**
-- **Private Cloud Deployments (Nextcloud, Matrix)**
-- **Infrastructure as Code (Ansible, Bash, Python)**
-- **Encrypted Backup and Disaster Recovery Systems**
-- **Custom Monitoring and Incident Response Automation**
+- **Infrastructure Design & Deployment**: Hardened VPS setups, mesh VPNs, cloud independence architectures.
+- **Automation Engineering**: Ansible, Bash, Python scripting for resilient and efficient deployments.
+- **Resilient System Design**: Backup strategies, disaster recovery planning, self-healing system principles.
+- **Defensive Cybersecurity Practices**: Private networking, server hardening, proactive breach detection.
+- **Network Programming**: Python-based tools for network automation and monitoring.
 
 ---
 
-## 📚 Current Focus Areas
+## 🛠️ Core Tech Stack
 
-- Building resilient private infrastructure labs for small businesses and privacy-focused clients.
-- Automating robust server deployments and real-time breach detection pipelines.
-- Publishing in-depth case studies and technical learning reports.
-- (Coming soon) Launch of professional consulting packages.
+- **Operating Systems**: Linux (Debian/Ubuntu Server focus), minimal Windows Server exposure.
+- **Infrastructure Tools**:  
+  - Bash scripting  
+  - Ansible (Infrastructure as Code)  
+  - Docker (for containerized resilience when appropriate)
+- **Programming & Scripting**:  
+  - Python (automation, network programming, defensive scripting)
+- **Networking & VPNs**:  
+  - WireGuard  
+  - OpenSSH  
+  - Basic network hardening and traffic routing
+- **Cybersecurity Defense**:  
+  - SIEM basics (Wazuh experience)  
+  - VPN architectures  
+  - Private infrastructure security practices
+- **Backup & Recovery**:  
+  - Automated backup scripting (rsync, BorgBackup)  
+  - Disaster recovery scripting
+- **Monitoring and Logging**:  
+  - Basic log aggregation and breach alert setups.
 
 ---
 
-## 📂 Selected Projects and Labs
+## 📚 Current Development Focus
 
-- [Private Infrastructure Labs](#) *(Coming Soon — Advanced Linux Hardening, VPN Mesh Networks, SIEM Deployments)*
-- [Resilient Server Automation Toolkit](#) *(Coming Soon — Self-healing server architectures and auto-recovery blueprints)*
-- [Case Studies: Private Infrastructure Deployments](#) *(Coming Soon — Real-world application breakdowns)*
+- Expanding advanced Python network automation capabilities.
+- Researching resilient, self-healing infrastructure frameworks.
+- Preparing early system architectures for private intelligent infrastructure projects.
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact Me
 
+- **Website:** [elidgonzalez.com](https://elidgonzalez.com) (Coming Soon)
 - **Email:** [eli@elidgonzalez.com](mailto:eli@elidgonzalez.com)
-- **Blog:** [blog.elidgonzalez.com](https://blog.elidgonzalez.com) *(Coming Soon)*
 - **LinkedIn:** [linkedin.com/in/elidgonzalez](https://linkedin.com/in/elidgonzalez) *(Coming Soon)*
 
 ---
 
-> **"Building resilient foundations for a private future."**
+> *"Resilience is not an accident — it's built, tested, and earned."*
